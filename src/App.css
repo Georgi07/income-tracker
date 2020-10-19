@@ -178,4 +178,10 @@ h1 {
     border-radius: 10px;
     margin-bottom: 10px;
   }
+  .income-list {
+    width: 100%;
+  }
+  .income-list .income-item {
+    padding-left: 5px;
+  }
 }
