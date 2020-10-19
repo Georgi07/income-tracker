@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8f93a74cf3e738e712d86a198506edd",
+    "revision": "f95912a2f8e4abbbdb839de1659562f5",
     "url": "/income-tracker/index.html"
   },
   {
-    "revision": "0e4442577a2dacab1514",
-    "url": "/income-tracker/static/css/main.ac010ca8.chunk.css"
+    "revision": "af06a814128b3f55cf9c",
+    "url": "/income-tracker/static/css/main.3477d3ff.chunk.css"
   },
   {
     "revision": "48bbc31aa36de50fc26e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/income-tracker/static/js/2.f2baaed5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e4442577a2dacab1514",
+    "revision": "af06a814128b3f55cf9c",
     "url": "/income-tracker/static/js/main.9e1df95d.chunk.js"
   },
   {
