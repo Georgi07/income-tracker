@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/income-tracker/static/css/main.3477d3ff.chunk.css",
+    "main.css": "/income-tracker/static/css/main.a481b588.chunk.css",
     "main.js": "/income-tracker/static/js/main.9e1df95d.chunk.js",
     "main.js.map": "/income-tracker/static/js/main.9e1df95d.chunk.js.map",
     "runtime-main.js": "/income-tracker/static/js/runtime-main.00de9406.js",
@@ -8,15 +8,15 @@
     "static/js/2.f2baaed5.chunk.js": "/income-tracker/static/js/2.f2baaed5.chunk.js",
     "static/js/2.f2baaed5.chunk.js.map": "/income-tracker/static/js/2.f2baaed5.chunk.js.map",
     "index.html": "/income-tracker/index.html",
-    "precache-manifest.6385fc67b250d07f795b4098904dc987.js": "/income-tracker/precache-manifest.6385fc67b250d07f795b4098904dc987.js",
+    "precache-manifest.c76d4bcace50dcba5852a73d0d8c0081.js": "/income-tracker/precache-manifest.c76d4bcace50dcba5852a73d0d8c0081.js",
     "service-worker.js": "/income-tracker/service-worker.js",
-    "static/css/main.3477d3ff.chunk.css.map": "/income-tracker/static/css/main.3477d3ff.chunk.css.map",
+    "static/css/main.a481b588.chunk.css.map": "/income-tracker/static/css/main.a481b588.chunk.css.map",
     "static/js/2.f2baaed5.chunk.js.LICENSE.txt": "/income-tracker/static/js/2.f2baaed5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.00de9406.js",
     "static/js/2.f2baaed5.chunk.js",
-    "static/css/main.3477d3ff.chunk.css",
+    "static/css/main.a481b588.chunk.css",
     "static/js/main.9e1df95d.chunk.js"
   ]
 }
